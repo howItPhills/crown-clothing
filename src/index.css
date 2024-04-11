@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scrollbar-width: thin;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  font-family: "Protest Guerrilla", sans-serif;
+}
